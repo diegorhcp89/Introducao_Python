@@ -10,6 +10,7 @@ nome_completo_quebra= "Diego \
 nome = "Diego"
 sobrenome = "Amaral"
 
+
 #Formatação
 print("Nome complete (1a forma):", nome_completo)
 print("Nome complete (2a forma):" +  nome_completo)
